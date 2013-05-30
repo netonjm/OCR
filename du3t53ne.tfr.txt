@@ -1,0 +1,73 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   OCR.sln
+#	new file:   OCR/App.config
+#	new file:   OCR/Form1.Designer.cs
+#	new file:   OCR/Form1.cs
+#	new file:   OCR/Form1.resx
+#	new file:   OCR/Form2.Designer.cs
+#	new file:   OCR/Form2.cs
+#	new file:   OCR/Form2.resx
+#	new file:   OCR/OCR.csproj
+#	new file:   OCR/PickUpClass.cs
+#	new file:   OCR/Program.cs
+#	new file:   OCR/Properties/AssemblyInfo.cs
+#	new file:   OCR/Properties/Resources.Designer.cs
+#	new file:   OCR/Properties/Resources.resx
+#	new file:   OCR/Properties/Settings.Designer.cs
+#	new file:   OCR/Properties/Settings.settings
+#	new file:   OCR/cublas32_42_9.dll
+#	new file:   OCR/cudart32_42_9.dll
+#	new file:   OCR/cufft32_42_9.dll
+#	new file:   OCR/cvextern.dll
+#	new file:   OCR/images/style_go.png
+#	new file:   OCR/libiomp5md.dll
+#	new file:   OCR/libmmd.dll
+#	new file:   OCR/npp32_42_9.dll
+#	new file:   OCR/opencv_calib3d242.dll
+#	new file:   OCR/opencv_contrib242.dll
+#	new file:   OCR/opencv_core242.dll
+#	new file:   OCR/opencv_features2d242.dll
+#	new file:   OCR/opencv_ffmpeg242.dll
+#	new file:   OCR/opencv_flann242.dll
+#	new file:   OCR/opencv_gpu242.dll
+#	new file:   OCR/opencv_highgui242.dll
+#	new file:   OCR/opencv_imgproc242.dll
+#	new file:   OCR/opencv_legacy242.dll
+#	new file:   OCR/opencv_ml242.dll
+#	new file:   OCR/opencv_nonfree242.dll
+#	new file:   OCR/opencv_objdetect242.dll
+#	new file:   OCR/opencv_photo242.dll
+#	new file:   OCR/opencv_stitching242.dll
+#	new file:   OCR/opencv_video242.dll
+#	new file:   OCR/opencv_videostab242.dll
+#	new file:   OCR/svml_dispmd.dll
+#	new file:   OCR/tbb.dll
+#	new file:   OCR/tessdata/eng.cube.bigrams
+#	new file:   OCR/tessdata/eng.cube.fold
+#	new file:   OCR/tessdata/eng.cube.lm
+#	new file:   OCR/tessdata/eng.cube.nn
+#	new file:   OCR/tessdata/eng.cube.params
+#	new file:   OCR/tessdata/eng.cube.size
+#	new file:   OCR/tessdata/eng.cube.word-freq
+#	new file:   OCR/tessdata/eng.tesseract_cube.nn
+#	new file:   OCR/tessdata/eng.traineddata
+#	new file:   OCR/text_replace.ico
+#	new file:   OCR/translator/TranslatorEngine.cs
+#	new file:   OCR/translator/parsers/StringParser.cs
+#	new file:   OCR/translator/web/WebResourceProvider.cs
+#	new file:   application_double.png
+#	new file:   text_replace.ico
+#	new file:   text_replace.png
+#
+
